@@ -1,5 +1,5 @@
 ---
-
+#Pipeline to build and push image to dockerhub.
 name: Complete DevOps Project Pipeline
 
 on:
